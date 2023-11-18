@@ -48,20 +48,19 @@
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
 ## OUTPUT
-![image](https://github.com/Anandanaruvi/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/120443233/17272948-dacd-49f1-80f0-87368a17daa7)
+![image](https://github.com/Anandanaruvi/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/120443233/65b3b39a-e140-45ea-8bae-b56d5b691773)
 
-![image](https://github.com/Anandanaruvi/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/120443233/4aaf0488-71cc-4496-ae27-b2b7e736064f)
+![image](https://github.com/Anandanaruvi/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/120443233/1a7f4a95-f773-4804-b710-ce790d557cea)
 
-![image](https://github.com/Anandanaruvi/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/120443233/3ea10891-0c56-4d99-b981-095b2fa01ae8)
+![image](https://github.com/Anandanaruvi/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/120443233/18423e25-59b6-4019-9f97-ea0119ca8942)
 
-![image](https://github.com/Anandanaruvi/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/120443233/b8adf39b-5d88-4c05-83b1-ea8badc50289)
+![image](https://github.com/Anandanaruvi/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/120443233/5908cc4a-d915-4c4f-a09c-76f6ba2340ba)
 
-![image](https://github.com/Anandanaruvi/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/120443233/50821811-dfb4-496d-b02f-6cd56f128408)
+![image](https://github.com/Anandanaruvi/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/120443233/23c0143c-7928-46ee-9053-61bc4d93760b)
 
 ### Output:
 
-![image](https://github.com/Anandanaruvi/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/120443233/4ee584bc-2e7c-42d1-ac04-e24bfc6695db)
-
+![image](https://github.com/Anandanaruvi/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/120443233/9e8ba0f0-3bf9-422e-ae96-6ad7c242a8ec)
 
 ### Name: A.ARUVI
 ### Register Number:212222230014
